@@ -7,7 +7,18 @@ package com.domka.api;
 public class App 
 {
     public static void main( String[] args )
+    
     {
-        System.out.println( "Hello World!" );
+    	for ( int a=0; a<20; a++) {
+    		System.out.println( "Hello World!" );
+    		
+    	}
+       
+    
+    
+    	
     }
+    
 }
+    
+
